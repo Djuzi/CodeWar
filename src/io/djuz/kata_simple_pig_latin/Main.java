@@ -25,8 +25,6 @@ public class Main {
         //######################
         //Первый вариант решения
         //######################
-
-
         var inputParam = "Pig latin is cool".trim().split(" "); //=> igPay atinlay siay oolcay
         StringBuilder stringBuilder = new StringBuilder();
 
